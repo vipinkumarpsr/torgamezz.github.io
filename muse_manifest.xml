@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="torgamez.tk" resolutions="1x" timestamp="1478028923669">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="torgamez.tk" resolutions="1x" timestamp="1478031474300">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="323064339" ref="assasin-s-creed-rogue:contact-us:assassin-s-creed-syndicate:nascar:games:wwe-2k16:prince-of-persia-the-two-thrones:gta-v-(pc):index:watch-dogs-deluxe-edition:batman:request-games"/>
-    <file name="assasin-s-creed-rogue.css" crc="4189247012" ref="assasin-s-creed-rogue"/>
-    <file name="contact-us.css" crc="53007098" ref="contact-us"/>
-    <file name="assassin-s-creed-syndicate.css" crc="4211786196" ref="assassin-s-creed-syndicate"/>
-    <file name="nascar.css" crc="4279829896" ref="nascar"/>
+    <file name="master_a-master.css" crc="3952441693" ref="games:assasin-s-creed-rogue:prince-of-persia-the-two-thrones:assassin-s-creed-syndicate:request-games:contact-us:wwe-2k16:watch-dogs-deluxe-edition:batman:index:gta-v-(pc):nascar"/>
     <file name="games.css" crc="341040633" ref="games"/>
-    <file name="wwe-2k16.css" crc="66759780" ref="wwe-2k16"/>
+    <file name="assasin-s-creed-rogue.css" crc="4189247012" ref="assasin-s-creed-rogue"/>
     <file name="prince-of-persia-the-two-thrones.css" crc="39746095" ref="prince-of-persia-the-two-thrones"/>
-    <file name="gta-v-_pc_.css" crc="140121313" ref="gta-v-(pc)"/>
-    <file name="index.css" crc="4015168063" ref="index"/>
+    <file name="assassin-s-creed-syndicate.css" crc="4211786196" ref="assassin-s-creed-syndicate"/>
+    <file name="request-games.css" crc="3974441348" ref="request-games"/>
+    <file name="contact-us.css" crc="308005041" ref="contact-us"/>
+    <file name="wwe-2k16.css" crc="66759780" ref="wwe-2k16"/>
     <file name="watch-dogs-deluxe-edition.css" crc="4136498542" ref="watch-dogs-deluxe-edition"/>
     <file name="batman.css" crc="3778263842" ref="batman"/>
-    <file name="request-games.css" crc="153108380" ref="request-games"/>
+    <file name="index.css" crc="4268952309" ref="index"/>
+    <file name="gta-v-_pc_.css" crc="140121313" ref="gta-v-(pc)"/>
+    <file name="nascar.css" crc="4279829896" ref="nascar"/>
   </folder>
   <folder name="assets">
     <file name="videoplayback_2.mp4" crc="4019986169" seo="true" mt="1477464373000"/>
@@ -55,7 +55,7 @@
     <file name="nascar heat evolution cover art.jpg" crc="3927107928" seo="true" ref="games"/>
     <file name="big_thumb_eaa3c5cf6de87f5bae5e5abca7efd74c.jpg" crc="212550109" seo="true" ref="gta-v-(pc)"/>
     <file name="gta-v.jpg" crc="56312594" seo="true" ref="gta-v-(pc)"/>
-    <file name="maxresdefault.jpg" crc="3844196897" seo="true" ref="gta-v-(pc)"/>
+    <file name="maxresdefault.jpg" crc="3848291702" seo="true" ref="gta-v-(pc)"/>
     <file name="a168f3-gta5 2016-02-08 06-55-29-373.jpg" crc="3971360239" seo="true" ref="gta-v-(pc)"/>
     <file name="images (1).jpg" crc="265063706" seo="true" ref="gta-v-(pc):assasin-s-creed-rogue:wwe-2k16:prince-of-persia-the-two-thrones:watch-dogs-deluxe-edition:assassin-s-creed-syndicate:nascar:batman"/>
     <file name="acrogue_ss1_164025.jpg" crc="434697678" seo="true" ref="assasin-s-creed-rogue"/>
@@ -86,21 +86,21 @@
     <file name="batman-arkham-origins-logo-screenshot.jpg" crc="4011018113" seo="true" ref="batman"/>
     <file name="wfa4bc.jpg" crc="3981536670" seo="true" ref="batman"/>
     <file name="the-joker-batman-arkham-origins-4k-wallpaper.jpg" crc="171340779" seo="true" ref="batman"/>
-    <file name="u3574-17.png" crc="289560223" ref="request-games"/>
-    <file name="u3574-17-r.png" crc="231014521" ref="request-games"/>
-    <file name="u3574-17-m.png" crc="12774082" ref="request-games"/>
-    <file name="u3574-17-fs.png" crc="84394497" ref="request-games"/>
+    <file name="u3574-17.png" crc="4272505247" ref="request-games"/>
+    <file name="u3574-17-r.png" crc="3876928325" ref="request-games"/>
+    <file name="u3574-17-m.png" crc="4185006464" ref="request-games"/>
+    <file name="u3574-17-fs.png" crc="4176793826" ref="request-games"/>
   </folder>
-  <file name="index.html" crc="4207666762" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="contact-us.html" crc="433007340" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="games.html" crc="463507438" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="gta-v-(pc).html" crc="178210204" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="assasin-s-creed-rogue.html" crc="3935458699" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="wwe-2k16.html" crc="367404691" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="prince-of-persia-the-two-thrones.html" crc="3943152801" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="watch-dogs-deluxe-edition.html" crc="4027966087" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="assassin-s-creed-syndicate.html" crc="3936653759" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="nascar.html" crc="72404491" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="batman.html" crc="354546612" seo="true" mt="1478028654228" redirect="true"/>
-  <file name="request-games.html" crc="467233659" seo="true" mt="1478028879537" redirect="true"/>
+  <file name="index.html" crc="56756472" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="contact-us.html" crc="3760162434" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="games.html" crc="450262688" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="gta-v-(pc).html" crc="3909075694" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="assasin-s-creed-rogue.html" crc="351029964" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="wwe-2k16.html" crc="3870320959" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="prince-of-persia-the-two-thrones.html" crc="4186881545" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="watch-dogs-deluxe-edition.html" crc="161707946" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="assassin-s-creed-syndicate.html" crc="3837510818" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="nascar.html" crc="416749197" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="batman.html" crc="3782685454" seo="true" mt="1478028654228" redirect="true"/>
+  <file name="request-games.html" crc="36010699" seo="true" mt="1478028879537" redirect="true"/>
 </manifest>
